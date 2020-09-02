@@ -1,0 +1,30 @@
+/* 
+    Master Stylesheet
+    ============================
+    Template Name :Bootstrap || Layout Template
+    Author: Mahmudul Islam AFriD
+
+*/
+
+
+
+
+
+
+.logo, .menu, .slider-area, .service, .footer{
+	height:70px;
+	background:#9B9B9B;
+}
+.slider-area{
+	height:500px;
+	margin-top: 15px;
+}
+
+.service{
+	height:250px;
+	margin-top:10px;
+}
+.footer{
+	margin-top:10px;
+	height:100px;
+}
